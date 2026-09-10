@@ -239,3 +239,6 @@ This repository serves as the official landing page for GPS TrackMaker. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of GPS TrackMaker today!**
+
+---
+**Last updated:** 2026-09-10 16:05:31 UTC
